@@ -1,0 +1,13 @@
+presentation layer receives data from the application layer, this data is the form of characters and numbers
+                 ex DFGIUXYC
+                    67567897
+
+translation
+presentaion layer converts these into the machine understandable format
+
+data compression
+as the file is reduced it can reach the destination at very less time
+
+encryption
+SSL is used for encryption and decryption
+
