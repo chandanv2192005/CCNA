@@ -1,7 +1,7 @@
 application layer protocols
 HTTPS, HTTP, FTP, NFS, FMPT, DHCP, SNMP, TELNET, POP3, TRC, NWTP
 
-file transfer = FTP
+file transfer = FTP 
 web surfing = HTTP, HTTPS
 emails = SMTP 
 virtual terminals = TELNET
